@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d0e9d0dfdc8197b2","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"    suivie football"},
+		{"id":"89e4afb9096f4a3c","x":-420,"y":60,"width":250,"height":60,"type":"text","text":"[[suivis des performances]]"},
+		{"id":"38a66350e4f615c2","x":-390,"y":-220,"width":250,"height":60,"type":"text","text":"  [[bibliotheques des exercices]]"},
+		{"id":"4a6be58b6ebf0981","x":0,"y":-300,"width":250,"height":60,"type":"text","text":"[[mes objectif de football]]"},
+		{"id":"e30ad63731c1632b","x":-125,"y":90,"width":250,"height":60,"type":"text","text":"[[mon tableau de bord]]"},
+		{"id":"30a346cd8f142dfa","x":200,"y":30,"width":250,"height":60,"type":"text","text":"[[seance du 07-11-2026]]"},
+		{"id":"c35e383ee5cd1dce","x":200,"y":-160,"width":250,"height":60,"type":"text","text":"[[seance du 03-11-2026]]"}
+	],
+	"edges":[
+		{"id":"9d1a27578dfafcc6","fromNode":"d0e9d0dfdc8197b2","fromSide":"top","toNode":"38a66350e4f615c2","toSide":"bottom"},
+		{"id":"d50a7c719677df5d","fromNode":"d0e9d0dfdc8197b2","fromSide":"bottom","toNode":"89e4afb9096f4a3c","toSide":"top"},
+		{"id":"9ca7fe7cd5a93b24","fromNode":"d0e9d0dfdc8197b2","fromSide":"bottom","toNode":"e30ad63731c1632b","toSide":"top"},
+		{"id":"935b7238edbb9891","fromNode":"d0e9d0dfdc8197b2","fromSide":"right","toNode":"c35e383ee5cd1dce","toSide":"left"},
+		{"id":"e3c7e753970f521c","fromNode":"d0e9d0dfdc8197b2","fromSide":"top","toNode":"4a6be58b6ebf0981","toSide":"bottom"},
+		{"id":"ade68a9640e0167d","fromNode":"d0e9d0dfdc8197b2","fromSide":"bottom","toNode":"30a346cd8f142dfa","toSide":"top"}
+	]
+}
